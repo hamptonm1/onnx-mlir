@@ -5,3 +5,4 @@ numpy~=1.22.2, <=1.23.5
 protobuf==4.21.12
 pytest~=7.2
 pytest-xdist~=3.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
